@@ -95,7 +95,7 @@ section  {
 
 /* SMALL VIEW */
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .col-sm-12 {
  	float: left;
   }
